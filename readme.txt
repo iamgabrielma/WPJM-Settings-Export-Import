@@ -1,0 +1,1 @@
+Tool for export and import settings from WP Job Manager
